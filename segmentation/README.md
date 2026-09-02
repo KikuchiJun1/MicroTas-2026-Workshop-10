@@ -1,4 +1,4 @@
-# MicroTas 2025 Workshop 11: Segmentation Tutorial
+# MicroTas 2026 Workshop 10: Segmentation Tutorial
 
 Welcome to the **Image Segmentation Tutorial**! This repository contains a hands-on workshop combining classical computer vision techniques with deep learning using PyTorch and UNet.
 
@@ -38,8 +38,8 @@ We use a subset of the **NuInsSeg dataset** (human spleen tissue images with bin
 
 2. Clone the repository to access the dataset and helper modules:
    ```python
-   !git clone https://github.com/KikuchiJun1/MicroTas-2025-Workshop-9-Segmentation.git
-   %cd MicroTas-2025-Workshop-9-Segmentation
+   !git clone https://github.com/KikuchiJun1/MicroTas-2026-Workshop-10-Segmentation.git
+   %cd MicroTas-2026-Workshop-10-Segmentation
    ```
 
 3. Run all notebook cells in order. 
@@ -95,7 +95,7 @@ After running the notebook, you should see:
 ## File Structure
 
 ```
-MicroTas-2025-Workshop-9-Segmentation/
+MicroTas-2026-Workshop-10-Segmentation/
 ├── Segmentation_Tutorial_Classical_and_UNet.ipynb   # Main notebook
 ├── README.md                                         # This file
 ├── requirements.txt                                  # Python dependencies
@@ -169,4 +169,4 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 **Happy segmenting!**
 
-*Last updated: October 2025*
+*Last updated: September 2026*

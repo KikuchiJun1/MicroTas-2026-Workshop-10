@@ -1,4 +1,4 @@
-# MicroTAS 2025 Workshop 11: Artificial Intelligence for Single-Cell Analysis: Detection, Segmentation, Classification, and Tracking
+# MicroTAS 2026 Workshop 10: Artificial Intelligence for Single-Cell Analysis: Detection, Segmentation, Classification, and Tracking
 
 This repository contains two hands-on tutorials for biomedical image analysis using classical and deep learning approaches:
 
@@ -40,19 +40,19 @@ Both tutorials are designed for beginners and can run in Google Colab with free 
 
 ### Access via Google Colab (Recommended)
 
-**Segmentation Tutorial:**
+**Tutorial #1: Segmentation Tutorial:**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13U6g9ZiqGMeHWACSNUhqWODf-7SNMztC?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQg0IKpaWrQPDpVUNS3tEgvpwUL2eOeV?usp=sharing)
 
-**Classification Tutorial:**
+**Tutorial #2: Classification Tutorial:**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KikuchiJun1/MicroTAS-2025-Workshop-9-Segmentation/blob/main/classification/Classification_V3.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10BLOMuVKmE5SYpBagn06KTWKPzU_p2YY?usp=sharing)
 
 ### Local Installation
 
 ```bash
-git clone https://github.com/KikuchiJun1/MicroTAS-2025-Workshop-11.git
-cd MicroTAS-2025-Workshop-11
+git clone https://github.com/KikuchiJun1/MicroTAS-2026-Workshop-10.git
+cd MicroTAS-2026-Workshop-10
 pip install torch torchvision pillow numpy matplotlib scikit-image
 ```
 
@@ -204,7 +204,7 @@ Binary classification of sperm morphology (Normal vs. Abnormal) using:
 
 ## 🎓 Workshop Information
 
-**Workshop**: MicroTAS 2025 - Computer Vision for Microscopy  
+**Workshop**: MicroTAS 2026 - Computer Vision for Microscopy  
 **Duration**: 90 minutes  
 **Level**: Beginner to Intermediate  
 **Prerequisites**: Basic Python knowledge
@@ -220,8 +220,17 @@ By the end of this workshop, you will:
 
 ## Contact & Support
 
-- **GitHub Issues**: [Report bugs or ask questions](https://github.com/KikuchiJun1/MicroTAS-2025-Workshop-9-Segmentation/issues)
-- **Workshop Organizers**: Contact via MicroTAS 2025 conference
+- **GitHub Issues**: [Report bugs or ask questions](https://github.com/KikuchiJun1/MicroTAS-2026-Workshop-10-Segmentation/issues)
+
+- **Workshop Organizers**: 
+
+Jun.Kikuchi@Monash.edu
+[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
+
+Reza.Nosrati@Monash.edu
+[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/rezanosrati)
+
+- **Conference Organizers**: Contact via MicroTAS 2026 conference
 
 ---
 
