@@ -104,3 +104,5 @@ class UNet(nn.Module):
         logits = self.outc(x)
         return logits
 
+
+# Dummy edit marker: 2026-09-02

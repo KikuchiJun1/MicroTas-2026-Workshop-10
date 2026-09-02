@@ -38,3 +38,5 @@ Tips
 - To freeze the data discovery to specific subsets, use `--include` with comma-separated folder names (partial matches allowed).
 - To inspect discovered pairs without training, run: `python -m train_unet.train --dry-run`.
 - After training, test metrics are saved to `<outdir>/test_metrics.json` and a `best.pt` checkpoint is used for evaluation.
+
+<!-- Dummy edit marker: 2026-09-02 -->

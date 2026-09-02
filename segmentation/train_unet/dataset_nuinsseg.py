@@ -144,3 +144,5 @@ def save_pairs_manifest(pairs: List[Tuple[str, str]], out_path: str):
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w') as f:
         json.dump([{"image": i, "mask": m} for i, m in pairs], f, indent=2)
+
+# Dummy edit marker: 2026-09-02
