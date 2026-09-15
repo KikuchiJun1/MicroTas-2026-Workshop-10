@@ -1,5 +1,9 @@
 # MicroTAS 2026 Workshop 10: Artificial Intelligence for Single-Cell Analysis: Detection, Segmentation, Classification, and Tracking
 
+  <p align="center">
+    <img src="assets/microtas2026_banner.png" alt="µTAS 2026 banner" width="60%">
+  </p>
+
 This repository contains two hands-on tutorials for biomedical image analysis using classical and deep learning approaches:
 
 1. **Segmentation Tutorial** - Cell segmentation using classical methods (Otsu thresholding) and UNet
@@ -225,10 +229,15 @@ By the end of this workshop, you will:
 - **Workshop Organizers**: 
 
 Jun.Kikuchi@Monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
+
 
 Reza.Nosrati@Monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/rezanosrati)
+
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/rezanosrati)
+
 
 - **Conference Organizers**: Contact via MicroTAS 2026 conference
 
